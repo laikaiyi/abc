@@ -1,0 +1,4 @@
+openai
+flask-ngrok
+pyngrok==4.1.1
+line-bot-sdk
